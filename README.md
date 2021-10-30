@@ -12,6 +12,8 @@ Then I did some exploratory analysis on the data after cleaning.
 
 From that analysis I found out that most favorite type of offers are Buy One Get One (BOGO) offers and Discount offers.
 
+here you can find a blog post about this project : https://medium.com/@ArwaData/starbucks-capstone-challenge-30ef159a5b35
+
 
 
 ## Problem Statement
